@@ -1,7 +1,7 @@
 package main
 
 import (
-	"SplitSlice/SplitSlice"
+	"SplitSlice"
 	"fmt"
 )
 
